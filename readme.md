@@ -1,1 +1,1 @@
-JavaScript study
+JavaScript study!

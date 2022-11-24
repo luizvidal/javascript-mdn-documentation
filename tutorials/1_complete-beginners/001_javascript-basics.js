@@ -16,10 +16,19 @@ console.log(variableName) // 10 */
 
 //conditionals https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics#conditionals
 
-let iceCream = 'chocolate';
+/*let iceCream = 'chocolate';
 if (iceCream === 'chocolate') {
     console.log('Yes, I love chocolate ice cream')
 } else {
     console.log('Chocolate is my favorite, but i\'ll accept')
-}
+}*/
 
+// functions https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics#functions
+
+/*function multiply(num1, num2) {
+    const result = num1 * num2;
+    return result;
+};
+
+const result = multiply(23,34);
+console.log(result);*/
